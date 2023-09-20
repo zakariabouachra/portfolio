@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "projetRCS",
+      "createdAt": "August 2023",
+      "url": "https://github.com/zakariabouachra/projetRCS",
+      "description": "🔥 The Complete CRUD Application Template that allows you to seamlessly manage data by connecting to two databases simultaneously and performing all operation : create - update - delete - read.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Mysql",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "MongoDb",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Machine Learning - App",
+      "createdAt": "August 2023",
+      "url": "https://github.com/zakariabouachra/ML-app",
+      "description": "🔥 The Comprehensive Machine Learning Prediction Project that enables you to showcase advanced predictive modeling and data analysis, providing accurate forecasts and valuable insights. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "FaceDetection-App",
+      "createdAt": "August 2023",
+      "url": "https://github.com/zakariabouachra/faceDetection-App",
+      "description": "🌀 The Robust Face Detection Application designed to accurately identify and locate faces in images, showcasing advanced computer vision and image analysis capabilities.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ZackFlix",
+      "createdAt": "January 2021",
+      "url": "https://github.com/zakariabouachra/zackFlix",
+      "description": "⚙️ The Complete Customizable Website Project, inspired by Netflix, crafted using HTML, CSS, and JavaScript, offering a rich user experience and showcasing your web development skills in building a visually engaging and functional platform",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ZackZone",
+      "createdAt": "January 2023",
+      "url": "https://github.com/zakariabouachra/zackzone",
+      "description": "🚀 The Comprehensive Object-Oriented PHP E-commerce Website that provides a robust platform for online shopping, powered by advanced PHP programming for seamless transactions and a smooth shopping experience",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Php",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "MySQl",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "LesTroisfreres",
+      "createdAt": "September 2022",
+      "url": "https://github.com/zakariabouachra/lesTroisfreres",
+      "description": "🚀 The Complete E-commerce Website Powered by PHP, designed to offer a seamless online shopping experience, featuring robust functionality and secure transactions",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Php",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "MySQl",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    }
+  ]
+}
