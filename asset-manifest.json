@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.638e1a85.chunk.css",
-    "main.js": "/portfolio/static/js/main.8fe239cd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8fe239cd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.50e5570d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.50e5570d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.143e6ce0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.143e6ce0.js.map",
-    "static/js/2.bcbf890e.chunk.js": "/portfolio/static/js/2.bcbf890e.chunk.js",
-    "static/js/2.bcbf890e.chunk.js.map": "/portfolio/static/js/2.bcbf890e.chunk.js.map",
+    "static/js/2.3c11fffd.chunk.js": "/portfolio/static/js/2.3c11fffd.chunk.js",
+    "static/js/2.3c11fffd.chunk.js.map": "/portfolio/static/js/2.3c11fffd.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.366b55778d1e09662dbbb254db51e283.js": "/portfolio/precache-manifest.366b55778d1e09662dbbb254db51e283.js",
+    "precache-manifest.40caf7565405a12bd12fa3adf77a4433.js": "/portfolio/precache-manifest.40caf7565405a12bd12fa3adf77a4433.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.638e1a85.chunk.css.map": "/portfolio/static/css/main.638e1a85.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -24,6 +24,7 @@
     "static/media/all.css": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/portfolio/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/portfolio/static/media/fullstack.fce60807.svg",
+    "static/media/gardaWorld_logo.png": "/portfolio/static/media/gardaWorld_logo.ab393e90.png",
     "static/media/gcp_logo.png": "/portfolio/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/portfolio/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
@@ -42,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.143e6ce0.js",
-    "static/js/2.bcbf890e.chunk.js",
+    "static/js/2.3c11fffd.chunk.js",
     "static/css/main.638e1a85.chunk.css",
-    "static/js/main.8fe239cd.chunk.js"
+    "static/js/main.50e5570d.chunk.js"
   ]
 }

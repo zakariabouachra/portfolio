@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72ab132bddfe7887626508e004759e74",
+    "revision": "9578129d3fca20fabc38b38da993a1cd",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "60a671d1792b1d646168",
+    "revision": "c9fbcd082e607324d4fe",
     "url": "/portfolio/static/css/main.638e1a85.chunk.css"
   },
   {
-    "revision": "e1117bfa6992d5ec7619",
-    "url": "/portfolio/static/js/2.bcbf890e.chunk.js"
+    "revision": "d45c39588079902d67b9",
+    "url": "/portfolio/static/js/2.3c11fffd.chunk.js"
   },
   {
-    "revision": "60a671d1792b1d646168",
-    "url": "/portfolio/static/js/main.8fe239cd.chunk.js"
+    "revision": "c9fbcd082e607324d4fe",
+    "url": "/portfolio/static/js/main.50e5570d.chunk.js"
   },
   {
     "revision": "4912ad1a1073933ac230",
@@ -154,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fce6080726685cabdb4f75a0d8018325",
     "url": "/portfolio/static/media/fullstack.fce60807.svg"
+  },
+  {
+    "revision": "ab393e901837b359f467fc776eee8455",
+    "url": "/portfolio/static/media/gardaWorld_logo.ab393e90.png"
   },
   {
     "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
